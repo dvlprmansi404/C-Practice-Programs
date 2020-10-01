@@ -1,3 +1,5 @@
+// Program to calculate the sum of squares
+
 #include<stdio.h>
 int main()
 {
