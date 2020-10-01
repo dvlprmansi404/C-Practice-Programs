@@ -10,6 +10,6 @@ for(int i=1;i<=n;i++)
 {
 a=i*i;
 sum=sum+a;
-}
+}     
 printf("Sum is %d",sum);
 }
